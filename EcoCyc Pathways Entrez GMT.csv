@@ -1,0 +1,436 @@
+PathwayName	PathwayDesc	Genes
+PWY-4621 arsenate detoxification II (glutaredoxin)	arsenate detoxification II (glutaredoxin)	948018	945479	946926	948132	947161
+PWY0-1466 trehalose degradation VI (periplasmic)	trehalose degradation VI (periplasmic)	945757
+PWY-5453 methylglyoxal degradation III	methylglyoxal degradation III	947480	944901	947495	946302	947493	948440
+PWY0-1182 trehalose degradation II (cytosolic)	trehalose degradation II (cytosolic)	948037	946858
+PWY-5386 methylglyoxal degradation I	methylglyoxal degradation I	946161	944902	949045	945551	946653
+TREDEGLOW-PWY trehalose degradation I (low osmolarity)	trehalose degradation I (low osmolarity)	948762	946858
+ENTNER-DOUDOROFF-PWY Entner-Doudoroff shunt	Entner-Doudoroff shunt	946367	946362
+PWY0-1305 L-glutamate degradation IX (via 4-aminobutanoate)	L-glutamate degradation IX (via 4-aminobutanoate)	948027	946058
+RHAMCAT-PWY L-rhamnose degradation I	L-rhamnose degradation I	948401	948399	948400	948402
+PWY0-1299 arginine dependent acid resistance	arginine dependent acid resistance	948638
+DARABCATK12-PWY D-arabinose degradation I	D-arabinose degradation I	946195	946022	947282	945672
+GLUAMCAT-PWY <i>N</i>-acetylglucosamine degradation I	<i>N</i>-acetylglucosamine degradation I	945290	945289
+ARABCAT-PWY L-arabinose degradation I	L-arabinose degradation I	947511	945294	946017
+PWY0-1324 <i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation I	<i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation I	947745	947742	947757
+PWY0-321 phenylacetate degradation I (aerobic)	phenylacetate degradation I (aerobic)	945940	945962	945833	945956	947595	946121	946263	945954	945963	946011
+PWY0-1534 hydrogen sulfide biosynthesis I	hydrogen sulfide biosynthesis I	945553	946993
+PWY-7197 pyrimidine deoxyribonucleotide phosphorylation	pyrimidine deoxyribonucleotide phosphorylation	945663	945535	945611	945097
+TRNA-CHARGING-PWY tRNA charging	tRNA charging	946452	946969	945310	946906	944761	947497	948785	947175	945555	946385	948855	947894	946222	945506	949116	946223	945382	948645	947372	946989	948080	948079	946643	945161	946596	947209	947171	945486	947150	945107	946414	945255	945750	945257	945269	948271	948510	947076	948465	947558	944884	947778	948339	947163	945662	948873	948893	945264	948304	948803	947505	948875	946817	946824	946870	946170	945345	949069	945331	946860	948337	946859	947772	944890	946488	946503	946509	946494	948276	944880	947541	945820	948474	945811	948275	947770	947202	948480	948476	948167	947173	945501	944826	945714	946492	946320	948061	948303	947463	948651	945280	945262	945336	945342	946866	945352	945338	945353	948305	948682	946416	948481	948681	947343	948687	947678	947198	946037	947292
+PWY-7184 pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	947254	948607	946740	949035	945663	945611	945097	947155	947149	946612	946732	948289	947062
+PWY-7801 N-end rule pathway I (prokaryotic)	N-end rule pathway I (prokaryotic)	945490	945264	948304	948803	947505	948875	945662	948873	948893
+OANTIGEN-PWY <i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>)	<i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>)	945235	947482	947117	945276	948300	945154	948299	948246	948241	947692	948535
+PWY-7206 pyrimidine deoxyribonucleotides dephosphorylation	pyrimidine deoxyribonucleotides dephosphorylation	947254	948607	946740	946277
+PWY-7980 ATP biosynthesis	ATP biosynthesis	948252	948247	948253	948244	948243	948242	948254	948245
+ARG+POLYAMINE-SYN superpathway of arginine and polyamine biosynthesis	superpathway of arginine and polyamine biosynthesis	947432	948638	947715	947457	945297	947719	947726	948643	944887	947590	948463	948774	944844	944775	949025	947289	948464	948455	947864	946255	948067	948456
+P4-PWY "superpathway of L-lysine	"superpathway of L-lysine	947498	945198	945553	948364	947313	948313	947864	945527	944862	946952	947939	945803	948433	948531	944762	948513	948323	948522	948434	946240	945937
+PWY-6284 superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)	superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)	945568	945127	946799	946665	945645	944888	945870	944805
+ARO-PWY chorismate biosynthesis I	chorismate biosynthesis I	947927	945605	946229	947084	946814	945528	945031	2847759	946200	947776	946210
+PEPTIDOGLYCANSYN-PWY peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	946321	944814	947703	948470	944813	946153	944818	948467	944791	945313	946324
+PWY-6897 thiamine salvage II	thiamine salvage II	945142	948491	947387	946881	946459
+PWY0-845 superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	946881	946162	946806	947413	945060	947039	946785	945527	944919
+BRANCHED-CHAIN-AA-SYN-PWY superpathway of branched chain amino acid biosynthesis	superpathway of branched chain amino acid biosynthesis	944798	946319	948563	947465	945076	945642	948277	948278	948286	948793	947267	948182	948183	2847699	948279	948287	947633
+HEXITOLDEGSUPER-PWY superpathway of hexitol degradation (bacteria)	superpathway of hexitol degradation (bacteria)	948117	948937	947644	947637	946636	946641	946598	946603	946610	945907	946527	946179	945032	948130	947414	947679	948409	947415	946632	946230	948412	946209	948753	948424	945372	947410	945041	945068
+CYANCAT-PWY cyanate degradation	cyanate degradation	946548	948998
+POLYISOPRENSYN-PWY polyisoprenoid biosynthesis (<i>E. coli</i>)	polyisoprenoid biosynthesis (<i>E. coli</i>)	945064	949020	944874	947551	945450	945863	947364
+PWY-7208 superpathway of pyrimidine nucleobases salvage	superpathway of pyrimidine nucleobases salvage	944989	945611	945097	946116	946979
+SO4ASSIM-PWY assimilatory sulfate reduction I	assimilatory sulfate reduction I	947230	947239	947231	947217	947219	947221	948289	947062
+ORNDEG-PWY superpathway of ornithine degradation	superpathway of ornithine degradation	945297	945876	947120	945882	947003	945072	946202
+COMPLETE-ARO-PWY superpathway of aromatic amino acid biosynthesis	superpathway of aromatic amino acid biosynthesis	947927	945605	946229	947084	946814	945528	945031	2847759	946200	947776	946210	945519	945846	945109	946204	945768	948278	948563	945553	947081	947115
+GLCMANNANAUT-PWY "superpathway of <i>N</i>-acetylglucosamine	"superpathway of <i>N</i>-acetylglucosamine	945290	945289	947745	947742	947757
+LPSSYN-PWY superpathway of lipopolysaccharide biosynthesis	superpathway of lipopolysaccharide biosynthesis	944838	945526	949053	944882	944816	944849	945539	947717	945785	947734	947587	949048	946216	945143	948136	948135	948149	948150	948155	948145	948144	948143	948142	948147	944805
+PWY0-1477 ethanolamine utilization	ethanolamine utilization	946924	946925	946943	945008	946778	946940	946775	946368	945837	946036
+PWY-5698 allantoin degradation to ureidoglycolate II (ammonia producing)	allantoin degradation to ureidoglycolate II (ammonia producing)	945134	945150	945149
+PWY-5705 allantoin degradation to glyoxylate III	allantoin degradation to glyoxylate III	945141	945134	945150	945149
+THISYN-PWY superpathway of thiamine diphosphate biosynthesis I	superpathway of thiamine diphosphate biosynthesis I	946459	948492	947387	948491	948493	945060	948500	948494	947004	946185	947160	2847702	945067
+4AMINOBUTMETAB-PWY superpathway of 4-aminobutanoate degradation	superpathway of 4-aminobutanoate degradation	947440	947003	948067	945446	948060
+METHGLYUT-PWY superpathway of methylglyoxal degradation	superpathway of methylglyoxal degradation	946161	944902	949045	945551	946653	947480	944901	947495	946302	947493	948440	945672	948121
+ENTBACSYN-PWY enterobactin biosynthesis	enterobactin biosynthesis	945511	946712	945284	947979	947037	945194	947426	946178	945184
+METSYN-PWY superpathway of L-homoserine and L-methionine biosynthesis	superpathway of L-homoserine and L-methionine biosynthesis	948513	948323	948522	948434	946240	945937	947939	948433
+PWY-6125 superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II	superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II	946985	947334	948163	946612	946732	948755	947155	947149	945611	945097	948289	947062	947161
+PWY0-1325 superpathway of L-asparagine biosynthesis	superpathway of L-asparagine biosynthesis	945281	948258
+UBISYN-PWY superpathway of ubiquinol-8 biosynthesis (prokaryotic)	superpathway of ubiquinol-8 biosynthesis (prokaryotic)	948545	945261	948926	947388	946607	947389	948326	948540	947364	945064	949020
+PWY0-1297 superpathway of purine deoxyribonucleosides degradation	superpathway of purine deoxyribonucleosides degradation	945654	945851	948910	948902	946943	945837	945008
+PWY0-981 taurine degradation IV	taurine degradation IV	945021
+AMMASSIM-PWY ammonia assimilation cycle III	ammonia assimilation cycle III	948370	947724	947723
+PWY-1801 formaldehyde oxidation II (glutathione-dependent)	formaldehyde oxidation II (glutathione-dependent)	944991	949045	944988
+GALACT-GLUCUROCAT-PWY superpathway of hexuronide and hexuronate degradation	superpathway of hexuronide and hexuronate degradation	947603	945542	946795	947082	948041	946367	947599	946149
+PWY-6277 superpathway of 5-aminoimidazole ribonucleotide biosynthesis	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	946973	946794	948504	947032	946975	946368
+PWY0-166 superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	946593	948755	947254	948607	946740	949035	945663	945611	945097	947155	947149	946612	946732	948289	947062	947161
+ARGSYN-PWY L-arginine biosynthesis I (via L-ornithine)	L-arginine biosynthesis I (via L-ornithine)	947590	948463	948774	944844	944775	949025	947289	948464	948455	947864	948067	948456
+AST-PWY L-arginine degradation II (AST pathway)	L-arginine degradation II (AST pathway)	946261	946259	946255	946260	946256
+ALKANEMONOX-PWY two-component alkanesulfonate monooxygenase	two-component alkanesulfonate monooxygenase	945947	945557
+GLUCUROCAT-PWY superpathway of &beta;-D-glucuronosides degradation	superpathway of &beta;-D-glucuronosides degradation	946795	947082	948041	946367	947599	946149
+PWY0-823 L-arginine degradation III (arginine decarboxylase/agmatinase pathway)	L-arginine degradation III (arginine decarboxylase/agmatinase pathway)	947432	948638	947715
+SULFATE-CYS-PWY superpathway of sulfate assimilation and cysteine biosynthesis	superpathway of sulfate assimilation and cysteine biosynthesis	947230	947239	947231	947217	947219	947221	948126	946877	946888	945527	945258	948913	948562	948289	947062
+PENTOSE-P-PWY pentose phosphate pathway	pentose phosphate pathway	944748	947006	947420	945865	947896	948602	947407	946398	946370	946554
+PWY-6952 glycerophosphodiester degradation	glycerophosphodiester degradation	946725	947955	947934	946713	946733	946735
+PWY-5340 sulfate activation for sulfonation	sulfate activation for sulfonation	947217	947219	947221
+PWY-5437 L-threonine degradation I	L-threonine degradation I	947623	945514	946778	947635	946775	947633
+PWY-6612 superpathway of tetrahydrofolate biosynthesis	superpathway of tetrahydrofolate biosynthesis	947691	945451	944790	949096	948792	947544	946383	949040	946337	947873	946647
+GLYCEROLMETAB-PWY glycerol degradation V	glycerol degradation V	948440	945747	945748	945749
+PWY0-1533 methylphosphonate degradation I	methylphosphonate degradation I	948612	948619	948618	948605	948613	948606	948600
+THREONINE-DEG2-PWY L-threonine degradation II	L-threonine degradation II	948139	948102	948138
+PWY-5436 L-threonine degradation IV	L-threonine degradation IV	944955	946943	945837	945008
+PWY0-381 glycerol and glycerophosphodiester degradation	glycerol and glycerophosphodiester degradation	948423	946725	947955	947934	946713	946733	946735
+PWY0-781 aspartate superpathway	aspartate superpathway	947498	945198	945553	948364	947313	948313	947864	945527	944862	946952	947939	945803	948433	948531	944762	948513	948323	948522	948434	946240	945937	945248	946946	948869	945351	947049	945389
+PWY0-1507 biotin biosynthesis from 8-amino-7-oxononanoate I	biotin biosynthesis from 8-amino-7-oxononanoate I	945387	945370	945376	947160
+THRDLCTCAT-PWY L-threonine degradation III (to methylglyoxal)	L-threonine degradation III (to methylglyoxal)	948139	948102	945939
+ETOH-ACETYLCOA-ANA-PWY ethanol degradation I	ethanol degradation I	946036	946943	945837	945008
+BIOTIN-BIOSYNTHESIS-PWY biotin biosynthesis I	biotin biosynthesis I	947916	945870	944888	945645	945388	946799	945384	945387	945370	945376	944805	947160
+PWY-5852 demethylmenaquinol-8 biosynthesis I	demethylmenaquinol-8 biosynthesis I	948418
+LCYSDEG-PWY L-cysteine degradation II	L-cysteine degradation II	946240	945937	946877	946888	948221	2847723
+POLYAMSYN-PWY superpathway of polyamine biosynthesis I	superpathway of polyamine biosynthesis I	947432	948638	947715	947457	945297	947719	947726	948643	944887
+PWY0-1296 purine ribonucleosides degradation	purine ribonucleosides degradation	945851	945654	946878	945048	948910
+PWY0-1597 prenylated FMNH<sub>2</sub> biosynthesis	prenylated FMNH<sub>2</sub> biosynthesis	947519	945689	945142	949033
+GLYCLEAV-PWY glycine cleavage	glycine cleavage	944854	947394	947393	947390
+PWY-7196 superpathway of pyrimidine ribonucleosides salvage	superpathway of pyrimidine ribonucleosides salvage	944796	945503	946646	946663	946597	946979	944989	946116	945535	945611	945097
+PWY-7179 purine deoxyribonucleosides degradation I	purine deoxyribonucleosides degradation I	945654	945851
+RIBOSYN2-PWY flavin biosynthesis I (bacteria and plants)	flavin biosynthesis I (bacteria and plants)	949129	945848	945848	945470	948357	947526	945620	945763
+ALADEG-PWY L-alanine degradation I	L-alanine degradation I	945937	946240	948564	945754	945752
+SER-GLYSYN-PWY superpathway of L-serine and glycine biosynthesis I	superpathway of L-serine and glycine biosynthesis I	945527	945258	948913	947022
+PWY-6019 pseudouridine degradation	pseudouridine degradation	946699	946664
+SERDEG-PWY L-serine degradation	L-serine degradation	947262	947633	946331	2847724
+COLANSYN-PWY colanic acid building blocks biosynthesis	colanic acid building blocks biosynthesis	946562	946563	948535	944840	946574	946580	945730	945271	945354	946571
+PWY0-1391 <i>S</i>-methyl-5'-thioadenosine degradation IV	<i>S</i>-methyl-5'-thioadenosine degradation IV	948542
+GLUTAMINDEG-PWY L-glutamine degradation I	L-glutamine degradation I	947724	947723	945281	944775	949025	946116	947334	946544	946516	944973	946187
+PWY-5459 methylglyoxal degradation IV	methylglyoxal degradation IV	945672	948121
+PWY0-1317 L-lactaldehyde degradation (aerobic)	L-lactaldehyde degradation (aerobic)	945672	948121
+PWY0-461 L-lysine degradation I	L-lysine degradation I	948643	944887	947120	945876	947440	948060	945446	948067	NA	NA
+PWY0-1061 superpathway of L-alanine biosynthesis	superpathway of L-alanine biosynthesis	948278	948087	947004	946185	NA	946772	946850
+PWY0-1315 L-lactaldehyde degradation (anaerobic)	L-lactaldehyde degradation (anaerobic)	947273
+PROUT-PWY-I proline degradation	proline degradation	945600
+TCA-GLYOX-BYPASS superpathway of glyoxylate bypass and TCA	superpathway of glyoxylate bypass and TCA	948512	948857	948517	946031	947854	946147	948642	946826	946180	946861	945314	945312	945303	945307	944854	945702	945323	947528	946724	944864	945322	945316	945300	945402	946702
+SALVADEHYPOX-PWY adenosine nucleotides degradation II	adenosine nucleotides degradation II	945654	946878	945048	945851	947116	947205	945148	948562	945283	947211	947331	945041
+ASPARAGINE-DEG1-PWY L-asparagine degradation I	L-asparagine degradation I	947454	946278	945456
+ECASYN-PWY enterobacterial common antigen biosynthesis	enterobacterial common antigen biosynthesis	948301	948293	948789	948298	948296	945154	948299	948300	948977	944789	948294
+PWY-6617 adenosine nucleotides degradation III	adenosine nucleotides degradation III	946508	947266
+2PHENDEG-PWY phenylethylamine degradation I	phenylethylamine degradation I	945939	945933
+TRYPDEG-PWY L-tryptophan degradation II (via pyruvate)	L-tryptophan degradation II (via pyruvate)	948221
+PWY0-1298 superpathway of pyrimidine deoxyribonucleosides degradation	superpathway of pyrimidine deoxyribonucleosides degradation	946663	948901	945048	948910	948902	946943	945837	945008
+PWY-6608 guanosine nucleotides degradation III	guanosine nucleotides degradation III	947366	948562	945283	947211	947904	947116	947205	945148	945654	946878	945048
+PANTO-PWY phosphopantothenate biosynthesis I	phosphopantothenate biosynthesis I	944958	945065	948286	944839	948479
+GLUTDEG-PWY L-glutamate degradation II	L-glutamate degradation II	945553	948658
+THRESYN-PWY superpathway of L-threonine biosynthesis	superpathway of L-threonine biosynthesis	948531	947939	945803	948433	947498	945198	945553
+PLPSAL-PWY pyridoxal 5'-phosphate salvage I	pyridoxal 5'-phosphate salvage I	946806	946881	946162
+ALL-CHORISMATE-PWY superpathway of chorismate metabolism	superpathway of chorismate metabolism	948545	945261	947388	946607	947389	948326	948540	947364	945064	949020	947927	945605	946229	947084	946814	945528	945031	2847759	946200	947776	946210	945519	945846	945109	946204	945768	948278	948563	945553	947081	947115	945284	947979	947037	945194	947426	946741	946734	945511	946712	946720	946736	946747	946190	948418	948926	947691	945451	944790	949096	948792	947544	946383	949040	946337	947873	946647	946178	945184
+PWY-7195 pyrimidine ribonucleosides salvage III	pyrimidine ribonucleosides salvage III	945503	946646	944796	944996
+PYRIDOXSYN-PWY pyridoxal 5'-phosphate biosynthesis I	pyridoxal 5'-phosphate biosynthesis I	946806	947413	945060	947039	946785	945527	944919
+PWY0-1578 hydrogen to trimethylamine N-oxide electron transfer	hydrogen to trimethylamine N-oxide electron transfer	944842	948615	945902	945182	945581	945580	945579	946252	946267
+FUC-RHAMCAT-PWY superpathway of fucose and rhamnose degradation	superpathway of fucose and rhamnose degradation	947282	946022	946195	945842	948401	948399	948400	948402	945672	948121	947273
+PWY-6556 pyrimidine ribonucleosides salvage II	pyrimidine ribonucleosides salvage II	946663	944796	945503	946646
+PWY-5123 "<i>trans	"<i>trans	945064	949020
+PWY0-1584 "nitrate reduction X (dissimilatory	"nitrate reduction X (dissimilatory	947934	946698	947093	945544	945984
+ORNARGDEG-PWY superpathway of L-arginine and L-ornithine degradation	superpathway of L-arginine and L-ornithine degradation	948638	947715	947440	948067	945446	948060	947457	945297	945876	947120	945882	947003	945072	946202
+PWY0-1295 pyrimidine ribonucleosides degradation	pyrimidine ribonucleosides degradation	946663	948987	945048	948910
+PWY0-1321 nitrate reduction III (dissimilatory)	nitrate reduction III (dissimilatory)	946035	948794	946038	948394	948395	948383	945782	945780	945808	946034	945999	946029
+PWY-6151 <i>S</i>-adenosyl-L-methionine cycle I	<i>S</i>-adenosyl-L-methionine cycle I	948542	947168	945389	948522	948323
+PWY0-1348 NADH to dimethyl sulfoxide electron transfer	NADH to dimethyl sulfoxide electron transfer	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	945508	945507	945502
+PWY0-162 superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	944775	949025	948767	948763	945787	948157	947121	945556	944989	945611	945097	946116
+PWY0-301 "L-ascorbate degradation I (bacterial	"L-ascorbate degradation I (bacterial	948712	948714	948711	948705
+PWY0-1356 formate to dimethyl sulfoxide electron transfer	formate to dimethyl sulfoxide electron transfer	946035	948794	946038	948394	948395	948383	945508	945507	945502
+ARGDEG-PWY "superpathway of L-arginine	"superpathway of L-arginine	945882	945072	946202	948638	947715	947440	948067	945446	948060	945876	947003	947120
+PYRIDNUCSAL-PWY NAD salvage pathway I (PNC VI cycle)	NAD salvage pathway I (PNC VI cycle)	945248	946648	946946	946276
+PWY-6961 "L-ascorbate degradation II (bacterial	"L-ascorbate degradation II (bacterial	948101	948096	948098	948100	948099
+PWY0-1577 hydrogen to dimethyl sulfoxide electron transfer	hydrogen to dimethyl sulfoxide electron transfer	945508	945507	945502	944842	948615	945902	945182	945581	945580	945579
+TCA TCA cycle I (prokaryotic)	TCA cycle I (prokaryotic)	946031	947854	946147	948642	946826	946180	946861	945314	945312	945303	945307	944854	945702	945323	946724	944864	945322	945316	945300	945402	946702
+GLUCARGALACTSUPER-PWY superpathway of D-glucarate and D-galactarate degradation	superpathway of D-glucarate and D-galactarate degradation	947258	947630	947631	947641	947632	945129
+PWY3O-4106 NAD salvage pathway IV (from nicotinamide riboside)	NAD salvage pathway IV (from nicotinamide riboside)	948911
+PWY0-1582 glycerol-3-phosphate to fumarate electron transfer	glycerol-3-phosphate to fumarate electron transfer	946713	946733	946735	948667	948666	948680	948668
+PANTOSYN-PWY superpathway of coenzyme A biosynthesis I (bacteria)	superpathway of coenzyme A biosynthesis I (bacteria)	944958	945065	948286	944839	948479	947386	949060	949047	945686
+PWY-7761 NAD salvage pathway II (PNC IV cycle)	NAD salvage pathway II (PNC IV cycle)	945248	947169	946946
+PROPIONMET-PWY propanoyl CoA degradation I	propanoyl CoA degradation I	945576
+PWY0-1347 NADH to trimethylamine <i>N</i>-oxide electron transfer	NADH to trimethylamine <i>N</i>-oxide electron transfer	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	946252	946267
+PWY-6579 superpathway of guanine and guanosine salvage	superpathway of guanine and guanosine salvage	944817	946624	945654	946878	945048	946584
+PYRIDNUCSYN-PWY NAD <i>de novo</i> biosynthesis I (from aspartate)	NAD <i>de novo</i> biosynthesis I (from aspartate)	945248	946946	948869	945351	947049
+PWY0-1355 formate to trimethylamine <i>N</i>-oxide electron transfer	formate to trimethylamine <i>N</i>-oxide electron transfer	946035	948794	946038	948394	948395	948383	946252	946267
+PWY-6535 4-aminobutanoate degradation I	4-aminobutanoate degradation I	945446	947440	947003
+PWY-5350 thiosulfate disproportionation IV (rhodanese)	thiosulfate disproportionation IV (rhodanese)	947935	945652	946993	947135
+PWY0-41 allantoin degradation IV (anaerobic)	allantoin degradation IV (anaerobic)	945134	945150	945149	948342	944775	949025	944972
+PWY0-1576 hydrogen to fumarate electron transfer	hydrogen to fumarate electron transfer	944842	948615	945902	945182	948667	948666	948680	948668
+PWY-6537 4-aminobutanoate degradation II	4-aminobutanoate degradation II	948067	948060
+ASPASN-PWY superpathway of L-aspartate and L-asparagine biosynthesis	superpathway of L-aspartate and L-asparagine biosynthesis	945553	945281	948258	947454	946278	945456	948658
+PWY0-1581 nitrate reduction IX (dissimilatory)	nitrate reduction IX (dissimilatory)	946713	946733	946735	945782	945780	945808	946034	945999	946029
+PHOSLIPSYN-PWY superpathway of phospholipid biosynthesis I (bacteria)	superpathway of phospholipid biosynthesis I (bacteria)	945821	945409	947059	948673	948125	947496	944876	948541	945791	947542	945863	947026	947321	944805
+PWY0-1585 formate to nitrite electron transfer	formate to nitrite electron transfer	946035	948794	946038	948394	948395	948383	946706	948580	948581	948571
+PWY-7194 pyrimidine nucleobases salvage II	pyrimidine nucleobases salvage II	944996	946979
+PWY0-1336 NADH to fumarate electron transfer	NADH to fumarate electron transfer	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	948667	948666	948680	948668
+PWY0-881 superpathway of fatty acid biosynthesis I (E. coli)	superpathway of fatty acid biosynthesis I (E. coli)	945766	944895	946796	946003	945568	944888	945645	946799	946665	945870	944805
+PWY0-1352 nitrate reduction VIII (dissimilatory)	nitrate reduction VIII (dissimilatory)	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	945782	945780	945808	946034	945999	946029
+COBALSYN-PWY superpathway of adenosylcobalamin salvage from cobinamide I	superpathway of adenosylcobalamin salvage from cobinamide I	946520	945246	946517	946519	945839
+PWY-7446 sulfoquinovose degradation I	sulfoquinovose degradation I	948373	948372	948382	948374	948376
+PWY0-1573 nitrate reduction VIIIb (dissimilatory)	nitrate reduction VIIIb (dissimilatory)	946792	945782	945780	945808
+KDO-NAGLIPASYN-PWY superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis	superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis	949048	944838	945526	949053	944882	944816	944849	946216	946847	945143	945539	947717	945785	947734	947587	944805
+PWY0-1544 proline to cytochrome <i>bo</i> oxidase electron transfer	proline to cytochrome <i>bo</i> oxidase electron transfer	944918	945080	945615	946897	945600
+PRPP-PWY "superpathway of histidine	"superpathway of histidine	946531	946551	946552	946544	946516	946521	946515	946549	946794	948504	947032	946975	946368	946794	948503	949031	945153	946985	947334	948163	948695	945695	946612	946732	947155	947149	948755	944775	949025	948767	948763	945787	948157	947121	945556	944989	945611	945097	946116	945772	948289	947062	947161
+PWY-5966 fatty acid biosynthesis initiation II	fatty acid biosynthesis initiation II	946799	946665	946003	944805
+PWY0-1567 NADH to cytochrome <i>bo</i> oxidase electron transfer II	NADH to cytochrome <i>bo</i> oxidase electron transfer II	946792	944918	945080	945615	946897
+PWY-7211 superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	947254	948607	946740	949035	945663	947155	947149	946612	946732	944775	949025	948767	948763	945787	948157	947121	945556	944989	945611	945097	946116	948289	947062
+PWY-5965 fatty acid biosynthesis initiation III	fatty acid biosynthesis initiation III	946665	946799	944805
+PWY0-1329 succinate to cytochrome <i>bo</i> oxidase electron transfer	succinate to cytochrome <i>bo</i> oxidase electron transfer	944918	945080	945615	946897	945322	945316	945300	945402
+DENOVOPURINE2-PWY superpathway of purine nucleotides <i>de novo</i> biosynthesis II	superpathway of purine nucleotides <i>de novo</i> biosynthesis II	946794	948504	947032	946975	946368	946794	948503	949031	945153	946985	947334	948163	948695	945695	945097	946612	946732	947155	947149	945611	948755	948289	947062	947161
+FASYN-ELONG-PWY fatty acid elongation -- saturated	fatty acid elongation -- saturated	945568	944888	945645	946799	946665	945870	944805
+PWY0-1353 succinate to cytochrome <i>bd</i> oxidase electron transfer	succinate to cytochrome <i>bd</i> oxidase electron transfer	945322	945316	945300	945402	945341	945347	1450246
+MET-SAM-PWY superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis	superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis	948513	948323	948522	948434	946240	945937	948531	947939	945803	948433	945389
+PWY-7181 pyrimidine deoxyribonucleosides degradation	pyrimidine deoxyribonucleosides degradation	946663	948901	945048
+PWY0-1565 D-lactate to cytochrome <i>bo</i> oxidase electron transfer	D-lactate to cytochrome <i>bo</i> oxidase electron transfer	946653	944918	945080	945615	946897
+PWY-5838 superpathway of menaquinol-8 biosynthesis I	superpathway of menaquinol-8 biosynthesis I	947364	946741	946734	945511	946712	946720	946736	946747	946190	948926	948418
+PWY-7545 pyruvate to cytochrome <i>bd</i> oxidase electron transfer	pyruvate to cytochrome <i>bd</i> oxidase electron transfer	946132	945341	945347	1450246
+THREOCAT-PWY superpathway of L-threonine metabolism	superpathway of L-threonine metabolism	944955	946943	945837	945008	945939	948139	948102	948138	947623	945514	946778	947635	946775	948277	948278	948286	948793	947267	948182	948183	2847699	948279	948287	947633
+PWY0-1335 NADH to cytochrome <i>bo</i> oxidase electron transfer I	NADH to cytochrome <i>bo</i> oxidase electron transfer I	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	944918	945080	945615	946897
+FASYN-INITIAL-PWY superpathway of fatty acid biosynthesis initiation (E. coli)	superpathway of fatty acid biosynthesis initiation (E. coli)	945766	944895	946796	946799	946665	946003	944805
+HOMOSER-METSYN-PWY L-methionine biosynthesis I	L-methionine biosynthesis I	948513	948323	948522	948434	946240	945937
+PWY0-1561 glycerol-3-phosphate to cytochrome <i>bo</i> oxidase electron transfer	glycerol-3-phosphate to cytochrome <i>bo</i> oxidase electron transfer	947934	944918	945080	945615	946897
+PWY-6126 superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II	superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II	948695	945695	945097	946612	946732	947155	947149	945611	948755	948289	947062	947161
+PWY0-1568 NADH to cytochrome <i>bd</i> oxidase electron transfer II	NADH to cytochrome <i>bd</i> oxidase electron transfer II	946792	945341	945347	1450246
+PWY0-1415 superpathway of heme <i>b</i> biosynthesis from uroporphyrinogen-III	superpathway of heme <i>b</i> biosynthesis from uroporphyrinogen-III	946908	947532	946500	946913	948497	948362	948331
+PWY-7544 pyruvate to cytochrome <i>bo</i> oxidase electron transfer	pyruvate to cytochrome <i>bo</i> oxidase electron transfer	946132	944918	945080	945615	946897
+NONOXIPENT-PWY pentose phosphate pathway (non-oxidative branch)	pentose phosphate pathway (non-oxidative branch)	944748	947006	947420	945865	947896	948602	947407
+PWY0-1334 NADH to cytochrome <i>bd</i> oxidase electron transfer I	NADH to cytochrome <i>bd</i> oxidase electron transfer I	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	945341	945347	1450246
+OXIDATIVEPENT-PWY pentose phosphate pathway (oxidative branch) I	pentose phosphate pathway (oxidative branch) I	946398	946370	946554
+PWY0-1483 "PhoRB Two-Component Signal Transduction System	"PhoRB Two-Component Signal Transduction System	945046	945044
+PWY0-1512 CusSR Two-Component Signal Transduction System	CusSR Two-Component Signal Transduction System	945978	945003
+PWY0-1490 EvgSA Two-Component Signal Transduction System	EvgSA Two-Component Signal Transduction System	946841	946844
+PWY0-1518 Chemotactic Two-Component Signal Transduction	Chemotactic Two-Component Signal Transduction	946393	946394	946401
+GLYCOGENSYNTH-PWY glycogen biosynthesis I (from ADP-D-Glucose)	glycogen biosynthesis I (from ADP-D-Glucose)	947932	947940	947942	945271
+PWY0-1495 "KdpDE Two-Component Signal Transduction System	"KdpDE Two-Component Signal Transduction System	945302	946744
+PWY0-1559 BtsSR Two-Component Signal Transduction System	BtsSR Two-Component Signal Transduction System	949024	949027
+TRESYN-PWY trehalose biosynthesis I	trehalose biosynthesis I	946405	946406
+PWY0-1277 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	944954	945047	945197	945346	947015	945427	946997	946998	944768	945012	946943	945837	945008
+NRI-PWY Nitrogen Regulation Two-Component System	Nitrogen Regulation Two-Component System	947552	948370	944863	948361	948360	947016	945087
+PWY0-1338 polymyxin resistance	polymyxin resistance	947683	947375	945275	945334	947297
+GLUCONEO-PWY gluconeogenesis I	gluconeogenesis I	948535	948753	948424	945372	947410	947415	946632	947679	947414	948130	945032	945667	947854	946209	946031	946947	948409
+PWY0-1499 DpiBA Two-Component Signal Transduction System	DpiBA Two-Component Signal Transduction System	947008	945233
+PWY0-662 PRPP biosynthesis	PRPP biosynthesis	945772
+PWY0-1470 "QseBC Two-Component Signal Transduction System	"QseBC Two-Component Signal Transduction System	945369	947174
+PWY0-1503 GlrKR Two-Component Signal Transduction System	GlrKR Two-Component Signal Transduction System	947042	947013
+PWY0-1482 BasSR Two-Component Signal Transduction System	BasSR Two-Component Signal Transduction System	948632	948631
+HOMOSERSYN-PWY L-homoserine biosynthesis	L-homoserine biosynthesis	948531	947939	945803	948433
+PWY-7805 (aminomethyl)phosphonate degradation	(aminomethyl)phosphonate degradation	948599	948612	948619	948618	948605	948613	948606	948600	948608	945113	948748	945041
+PWY-6164 3-dehydroquinate biosynthesis I	3-dehydroquinate biosynthesis I	947927	945605	946229	947084
+PWY0-1509 "NtrBC Two-Component Signal Transduction System	"NtrBC Two-Component Signal Transduction System	948361	948360
+PWY-8072 alanine racemization	alanine racemization	945937	946240	948564	945754
+PWY0-1261 anhydromuropeptides recycling I	anhydromuropeptides recycling I	946893	946810	945671	948877	945494	945289	947692	948246	945756	946686	948752	947703	948470
+PWY0-1487 CreCB Two-Component Signal Transduction System	CreCB Two-Component Signal Transduction System	948922	948609
+PWY0-1515 "NarX Two-Component Signal Transduction System	"NarX Two-Component Signal Transduction System	949081	945788	945795
+PWY0-1493 Rcs Signal Transduction System	Rcs Signal Transduction System	948993	947441	946717
+PWY0-1550 PyrSR Two-Component Signal Transduction System	PyrSR Two-Component Signal Transduction System	NA	NA
+PWY0-1498 ZraSR Two-Component Signal Transduction System	ZraSR Two-Component Signal Transduction System	948505	948506
+PWY0-1468 "DcuSR Two-Component Signal Transduction System	"DcuSR Two-Component Signal Transduction System	948640	948639
+PWY0-1501 BarA UvrY Two-Component Signal Transduction System	BarA UvrY Two-Component Signal Transduction System	946424	947255
+PWY0-1481 BaeSR Two-Component Signal Transduction System	BaeSR Two-Component Signal Transduction System	946605	946611
+PWY-6147 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	948792	947544	946383	949040
+PWY0-1506 "TorTSR Signal Transduction System	"TorTSR Signal Transduction System	946182	945595
+PWY0-42 2-methylcitrate cycle I	2-methylcitrate cycle I	948572	946891	947528	945931	944864	944990
+PWY0-1485 CpxAR Two-Component Signal Transduction System	CpxAR Two-Component Signal Transduction System	948405	948404
+PWY0-1514 "NarQ Two-Component Signal Transduction System	"NarQ Two-Component Signal Transduction System	949081	946948	945795
+PWY-7187 pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	946593	947254	948607	946740	949035	945663	945611	945097	948755
+PWY0-1492 UhpBA Two Component Signal Transduction System	UhpBA Two Component Signal Transduction System	948178	948195
+PWY0-1519 Aerotactic Two-Component Signal Transduction System	Aerotactic Two-Component Signal Transduction System	946393	946401
+GLUCOSE1PMETAB-PWY glucose and glucose-1-phosphate degradation	glucose and glucose-1-phosphate degradation	2847768	948204	945432	948380	945271	946858	944830
+PWY0-1497 RstBA Two-Component Signal Transduction System	RstBA Two-Component Signal Transduction System	946199	948870
+PWY-7180 2-deoxy-&alpha;-D-ribose 1-phosphate degradation	2-deoxy-&alpha;-D-ribose 1-phosphate degradation	948910	948902	946943	945837	945008
+SALVPURINE2-PWY xanthine and xanthosine salvage	xanthine and xanthosine salvage	944817	946878	945048
+PWY0-1309 chitobiose degradation	chitobiose degradation	946231	946266
+PWY0-1588 HprSR Two-Component Signal Transduction System	HprSR Two-Component Signal Transduction System	946486	946487
+PWY0-44 D-allose degradation	D-allose degradation	948602	948595	948596
+GLYCOLYSIS-TCA-GLYOX-BYPASS "superpathway of glycolysis	"superpathway of glycolysis	948512	948857	948517	946031	947854	946147	948642	946826	946180	946861	945314	945312	945303	945307	945702	945323	947528	946724	944864	945322	945316	945300	945402	946702	946527	946179	945032	948130	947414	947679	948409	947415	946632	946230	948412	948535	946209	948753	948424	945372	947410	945068	944834	944794	944854
+FUCCAT-PWY fucose degradation	fucose degradation	947282	946022	946195	945842
+PWY0-1458 "PhoQP Two-Component Signal Transduction System	"PhoQP Two-Component Signal Transduction System	945697	946326
+MANNCAT-PWY D-mannose degradation	D-mannose degradation	944840
+GLYCOLYSIS-E-D superpathway of glycolysis and the Entner-Doudoroff pathway	superpathway of glycolysis and the Entner-Doudoroff pathway	946367	946362	946527	946179	945032	948130	947414	947679	948409	947415	946632	946230	948412	948535	946209	948753	948424	945372	947410	945068	946370	946398
+PWY0-1301 melibiose degradation	melibiose degradation	948636
+PWY0-1500 EnvZ/OmrR Two-Component Signal Transduction System	EnvZ/OmrR Two-Component Signal Transduction System	947272	947913
+PWY0-1602 D-gulosides conversion to D-glucosides	D-gulosides conversion to D-glucosides	948589	947427	945971
+PWY0-1517 sedoheptulose bisphosphate bypass	sedoheptulose bisphosphate bypass	948412	947415
+LYXMET-PWY L-lyxose degradation	L-lyxose degradation	948400	948101	948100	945294	948099
+PWY0-1474 AtoSC Two-Component Signal Transduction System	AtoSC Two-Component Signal Transduction System	947444	949011
+PWY0-1300 2-<I>O</I>-&alpha;-mannosyl-D-glycerate degradation	2-<I>O</I>-&alpha;-mannosyl-D-glycerate degradation	945359	947632	945129
+GLYOXYLATE-BYPASS glyoxylate cycle	glyoxylate cycle	946031	947854	948512	948517	945323	946724	944864
+PWY0-1314 fructose degradation	fructose degradation	946676
+PWY0-1505 "ArcAB Two-Component Signal Transduction System	"ArcAB Two-Component Signal Transduction System	948874	947887
+RIBOKIN-PWY ribose phosphorylation	ribose phosphorylation	948260	948267
+PWY-6121 5-aminoimidazole ribonucleotide biosynthesis I	5-aminoimidazole ribonucleotide biosynthesis I	946794	948504	946973	947032	946975
+PUTDEG-PWY putrescine degradation I	putrescine degradation I	945876	947003	947120
+PWY-6122 5-aminoimidazole ribonucleotide biosynthesis II	5-aminoimidazole ribonucleotide biosynthesis II	946794	948504	947032	946975	946368
+PWY0-163 salvage pathways of pyrimidine ribonucleotides	salvage pathways of pyrimidine ribonucleotides	946979	945611	945097	948987	945048	946663	944996	946597	945535
+PWY0-181 salvage pathways of pyrimidine deoxyribonucleotides	salvage pathways of pyrimidine deoxyribonucleotides	946663	948901	945048	945834
+PWY0-1221 putrescine degradation II	putrescine degradation II	945882	947003	945072	946202
+PWY-7193 pyrimidine ribonucleosides salvage I	pyrimidine ribonucleosides salvage I	946663	946597
+PWY-7205 CMP phosphorylation	CMP phosphorylation	945535	945611	945097
+PWY-7183 pyrimidine nucleobases salvage I	pyrimidine nucleobases salvage I	946979
+BETSYN-PWY glycine betaine biosynthesis I (Gram-negative bacteria)	glycine betaine biosynthesis I (Gram-negative bacteria)	945716	947376
+BSUBPOLYAMSYN-PWY spermidine biosynthesis I	spermidine biosynthesis I	947726	947719
+PWY-46 putrescine biosynthesis III	putrescine biosynthesis III	947457
+FERMENTATION-PWY mixed acid fermentation	mixed acid fermentation	946778	946940	946775	947623	945514	946943	945837	946036	946527	946179	946315	946147	948642	946826	946180	946861	946031	947854	948457	948584	947396	948002	947191	947048	945327	948994	948667	948666	948680	948668	945323	944864	945702
+PWY-40 putrescine biosynthesis I	putrescine biosynthesis I	947432	947715
+PWY0-1312 acetate and ATP formation from acetyl-CoA I	acetate and ATP formation from acetyl-CoA I	946775	946778	946940
+GLYCOLATEMET-PWY glycolate and glyoxylate degradation I	glycolate and glyoxylate degradation I	945394	947353	2847718	2847717	945146	947632	945129
+PWY-5901 "2	"2	945511	946178	945284
+GLYOXDEG-PWY glycolate and glyoxylate degradation II	glycolate and glyoxylate degradation II	948857	947353	2847718	2847717
+GALACTARDEG-PWY D-galactarate degradation I	D-galactarate degradation I	947630	947631	947641	947632	945129
+GALACTUROCAT-PWY D-galacturonate degradation I	D-galacturonate degradation I	947603	948041	945542	947599	946367
+GLUCARDEG-PWY <i>D</i>-glucarate degradation I	<i>D</i>-glucarate degradation I	947630	947631	947258	947632	945129
+PWY-6153 autoinducer AI-2 biosynthesis I	autoinducer AI-2 biosynthesis I	948542	947168
+PWY-7247 &beta;-D-glucuronide and D-glucuronate degradation	&beta;-D-glucuronide and D-glucuronate degradation	947599	946149
+PWY0-1433 tetrahydromonapterin biosynthesis	tetrahydromonapterin biosynthesis	949096	946781	949040
+P2-PWY citrate lyase activation	citrate lyase activation	949084	946395	945231	945415	945230	945406
+PWY-6476 cytidylyl molybdenum cofactor biosynthesis	cytidylyl molybdenum cofactor biosynthesis	947356
+PWY-6012 acyl carrier protein metabolism	acyl carrier protein metabolism	949132	947037	947979	946178	944805	945184
+SAM-PWY S-adenosyl-L-methionine biosynthesis	S-adenosyl-L-methionine biosynthesis	945389
+PWY-7971 adenosylcobinamide-GDP salvage from cobinamide I	adenosylcobinamide-GDP salvage from cobinamide I	946519	945839
+PWY-5964 guanylyl molybdenum cofactor biosynthesis	guanylyl molybdenum cofactor biosynthesis	948349
+PWY-5509 adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	946520	945246	946517
+PWY0-1527 curcumin degradation	curcumin degradation	946012
+PWY0-1569 autoinducer AI-2 degradation	autoinducer AI-2 degradation	946071	946069	946073
+PWY0-521 fructoselysine and psicoselysine degradation	fructoselysine and psicoselysine degradation	947875	947886	2847758
+PWY-5484 glycolysis II (from fructose 6-phosphate)	glycolysis II (from fructose 6-phosphate)	946527	946179	945032	948130	947414	947679	948409	947415	946632	946230	948412	946209	948753	948424	945372	947410	945041	945068
+KETOGLUCONMET-PWY ketogluconate metabolism	ketogluconate metabolism	947109	946066	947937	944769	944901	947495	948074
+GLYCOLYSIS glycolysis I (from glucose 6-phosphate)	glycolysis I (from glucose 6-phosphate)	946527	946179	945032	948130	947414	947679	948409	947415	946632	946230	948412	948535	946209	948753	948424	945372	947410	945068
+IDNCAT-PWY L-idonate degradation	L-idonate degradation	947109	946066	944769
+PWY-6282 palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	945870	944888	945645	946799	945127	944805
+PWY0-1306 L-galactonate degradation	L-galactonate degradation	948883
+PWY0-862 (5Z)-dodecenoate biosynthesis I	(5Z)-dodecenoate biosynthesis I	945870	945645	946799	944888	945568	944805
+ASPARAGINE-BIOSYNTHESIS L-asparagine biosynthesis I	L-asparagine biosynthesis I	945281
+GALACTCAT-PWY D-galactonate degradation	D-galactonate degradation	948207	2847766	2847765
+ASPARAGINESYN-PWY L-asparagine biosynthesis II	L-asparagine biosynthesis II	945281	948258
+PWY-7242 D-fructuronate degradation	D-fructuronate degradation	946795	947082	948041	946367
+HOMOSER-THRESYN-PWY L-threonine biosynthesis	L-threonine biosynthesis	947498	945198
+GLUTSYNIII-PWY L-glutamate biosynthesis III	L-glutamate biosynthesis III	946802
+PWY-6703 preQ<sub>0</sub> biosynthesis	preQ<sub>0</sub> biosynthesis	949040	945123	947527	947034
+GLUTSYN-PWY L-glutamate biosynthesis I	L-glutamate biosynthesis I	947724	947723
+VALSYN-PWY L-valine biosynthesis	L-valine biosynthesis	948277	948278	948286	948182	948183	2847699	948279	948793	947267
+PWY-4261 glycerol degradation I	glycerol degradation I	948423	947934	946713	946733	946735
+HISTSYN-PWY L-histidine biosynthesis	L-histidine biosynthesis	946531	946551	946552	946544	946516	946521	946515	946549
+ACETOACETATE-DEG-PWY acetoacetate degradation (to acetyl CoA)	acetoacetate degradation (to acetyl CoA)	946727	946719	947525	946211
+DAPLYSINESYN-PWY L-lysine biosynthesis I	L-lysine biosynthesis I	948364	947313	948313	947864	945527	944862	946952	947939	948531	944762
+PPGPPMET-PWY ppGpp biosynthesis	ppGpp biosynthesis	944817	947244	948159	945611	945097
+PROSYN-PWY L-proline biosynthesis I (from L-glutamate)	L-proline biosynthesis I (from L-glutamate)	945034	946680	946425
+PWY0-43 conversion of succinate to propanoate	conversion of succinate to propanoate	945576	947408	947402
+PWY0-901 L-selenocysteine biosynthesis I (bacteria)	L-selenocysteine biosynthesis I (bacteria)	946768	948124	945506	948167
+PWY-7870 L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine)	L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine)	946888	948126	945479	947161	948132	946926
+CYSTSYN-PWY L-cysteine biosynthesis I	L-cysteine biosynthesis I	948126	946877	946888
+PWY0-1601 cadaverine biosynthesis	cadaverine biosynthesis	948643	944887
+TYRSYN L-tyrosine biosynthesis I	L-tyrosine biosynthesis I	948563	945553	947081	947115
+GLYSYN-PWY glycine biosynthesis I	glycine biosynthesis I	947022
+PWY0-1303 aminopropylcadaverine biosynthesis	aminopropylcadaverine biosynthesis	947726	948643	944887
+CARNMET-PWY L-carnitine degradation I	L-carnitine degradation I	949064	948997	948995	944886
+LEUSYN-PWY L-leucine biosynthesis	L-leucine biosynthesis	944798	946319	948278	948563	947465	945076	945642
+PWY0-1535 D-serine degradation	D-serine degradation	946837
+PWY-4121 glutathionylspermidine biosynthesis	glutathionylspermidine biosynthesis	947474
+PWY-6620 guanine and guanosine salvage	guanine and guanosine salvage	944817	946624	945654	946878	945048
+PHESYN L-phenylalanine biosynthesis I	L-phenylalanine biosynthesis I	948563	945553	948278	947081	947115
+PWY-6618 guanine and guanosine salvage III	guanine and guanosine salvage III	946584
+PWY0-1021 L-alanine biosynthesis III	L-alanine biosynthesis III	947004	946185
+PWY-6609 adenine and adenosine salvage III	adenine and adenosine salvage III	946878	945654	945048	945851	946624	944817
+ALANINE-VALINESYN-PWY L-alanine biosynthesis I	L-alanine biosynthesis I	948278	948087
+PWY-6605 adenine and adenosine salvage II	adenine and adenosine salvage II	945113	944796
+ALANINE-SYN2-PWY L-alanine biosynthesis II	L-alanine biosynthesis II	946772	946850
+PWY-6611 adenine and adenosine salvage V	adenine and adenosine salvage V	945654	945048	945851	946584
+SERSYN-PWY L-serine biosynthesis I	L-serine biosynthesis I	945527	945258	948913
+ASPARTATESYN-PWY L-aspartate biosynthesis	L-aspartate biosynthesis	945553
+PWY-7176 UTP and CTP <i>de novo</i> biosynthesis	UTP and CTP <i>de novo</i> biosynthesis	944989	945611	945097	946116
+TRPSYN-PWY L-tryptophan biosynthesis	L-tryptophan biosynthesis	945519	945846	945109	946204	945768
+PWY-5084 2-oxoglutarate decarboxylation to succinyl-CoA	2-oxoglutarate decarboxylation to succinyl-CoA	945303	945307	944854
+GLNSYN-PWY L-glutamine biosynthesis I	L-glutamine biosynthesis I	948370
+PWY-7221 guanosine ribonucleotides <i>de novo</i> biosynthesis	guanosine ribonucleotides <i>de novo</i> biosynthesis	946985	947334	948163	945611	945097
+ILEUSYN-PWY L-isoleucine biosynthesis I (from threonine)	L-isoleucine biosynthesis I (from threonine)	948277	948278	948286	948793	947267	2847699	948279	948287
+PWY-7219 adenosine ribonucleotides <i>de novo</i> biosynthesis	adenosine ribonucleotides <i>de novo</i> biosynthesis	948695	945695	945097
+PWY-5155 &beta;-alanine biosynthesis III	&beta;-alanine biosynthesis III	945686
+PWY-7222 guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	946612	946732	948755	947155	947149	945611	945097	948289	947062	947161
+GLUTORN-PWY L-ornithine biosynthesis I	L-ornithine biosynthesis I	947289	948464	948455	947864	948067	948456
+PWY-7220 adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II	946612	946732	947155	947149	945611	948755	948289	947062	947161
+KDOSYN-PWY Kdo transfer to lipid IV<sub>A</sub> I (E. coli)	Kdo transfer to lipid IV<sub>A</sub> I (E. coli)	949048
+LIPA-CORESYN-PWY lipid A-core biosynthesis (<i>E. coli</i> K-12)	lipid A-core biosynthesis (<i>E. coli</i> K-12)	948136	948135	948149	948150	948155	948145	948144	948143	948142	948147
+PWY-6387 UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)	947703	948470	944813	946153	944818	948467	944791	945313	946324
+PWY-6071 superpathway of phenylethylamine degradation	superpathway of phenylethylamine degradation	945939	945933	945940	945962	945833	945956	947595	946121	946263	945954	945963	946011
+PWY0-1264 biotin-carboxyl carrier protein assembly	biotin-carboxyl carrier protein assembly	948469	947761	944895	946796
+PWY0-1586 peptidoglycan maturation (<i>meso</i>-diaminopimelate containing)	peptidoglycan maturation (<i>meso</i>-diaminopimelate containing)	947728	947152	946904	946907	945455	946518	945222	946174	945240	944799	944843	947907	945541
+HCAMHPDEG-PWY 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	944954	945047	945197	945346	947015	945427	946997	946998
+NAGLIPASYN-PWY lipid IV<sub>A</sub> biosynthesis (E. coli)	lipid IV<sub>A</sub> biosynthesis (E. coli)	944838	945526	949053	944882	944816	944849	944805
+PWY0-1319 CDP-diacylglycerol biosynthesis II	CDP-diacylglycerol biosynthesis II	948125	947496	944876	948541	944805
+PWY-7344 UDP-&alpha;-D-galactose biosynthesis	UDP-&alpha;-D-galactose biosynthesis	945354
+PWY-6690 cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	947015	945427	946997	946998	945047	944954	945346	945197
+KDO-LIPASYN-PWY (Kdo)<sub>2</sub>-lipid A biosynthesis I (E. coli)	(Kdo)<sub>2</sub>-lipid A biosynthesis I (E. coli)	946216	945143	944805
+PWY-5667 CDP-diacylglycerol biosynthesis I	CDP-diacylglycerol biosynthesis I	944876	947496	948541	948125
+GALACTITOLCAT-PWY galactitol degradation	galactitol degradation	946230	947644	947637	946636	946641	946598	946603	946610	945907
+PWY-7335 UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis	UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis	948977	944789
+PWY-5669 phosphatidylserine and phosphatidylethanolamine biosynthesis I	phosphatidylserine and phosphatidylethanolamine biosynthesis I	947059	948673
+COA-PWY coenzyme A biosynthesis I (prokaryotic)	coenzyme A biosynthesis I (prokaryotic)	947386	949060	949047
+SORBDEG-PWY D-sorbitol degradation II	D-sorbitol degradation II	948937
+PWY-7346 UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	946571
+PWY-5668 cardiolipin biosynthesis I	cardiolipin biosynthesis I	947542	945863	947026	945821	945409	945791
+PWY-7343 UDP-&alpha;-D-glucose biosynthesis I	UDP-&alpha;-D-glucose biosynthesis I	945730	945271
+MANNIDEG-PWY mannitol degradation I	mannitol degradation I	948117
+PWY0-1241 ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis	ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis	947548	944879	948134	949134
+PWY0-1545 cardiolipin biosynthesis III	cardiolipin biosynthesis III	945791	947542	945863	947026	947321
+NADPHOS-DEPHOS-PWY NAD phosphorylation and dephosphorylation	NAD phosphorylation and dephosphorylation	947092	946144	946628
+PWY-66 GDP-L-fucose biosynthesis I (from GDP-D-mannose)	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	946562	946563
+GLUCONSUPER-PWY D-gluconate degradation	D-gluconate degradation	946066	947937
+PWY0-541 cyclopropane fatty acid (CFA) biosynthesis	cyclopropane fatty acid (CFA) biosynthesis	944811
+PWY-5188 tetrapyrrole biosynthesis I (from glutamate)	tetrapyrrole biosynthesis I (from glutamate)	948587	947759	945017	946892	945777	946906	948271	948510	947076	948465
+PWY-5659 GDP-mannose biosynthesis	GDP-mannose biosynthesis	948535	944840	946574	946580
+PWY0-1313 acetate conversion to acetyl-CoA	acetate conversion to acetyl-CoA	948572
+PWY-6823 molybdenum cofactor biosynthesis	molybdenum cofactor biosynthesis	945392	945398	945399	944760	945454	945452	946505	947004	946185	945397
+ACETATEUTIL-PWY superpathway of acetate utilization and formation	superpathway of acetate utilization and formation	948572	946775	946368	946778	946940
+PWY-6038 citrate degradation	citrate degradation	945415	945230	945406
+PYRUVDEHYD-PWY pyruvate decarboxylation to acetyl CoA	pyruvate decarboxylation to acetyl CoA	944794	944854	944834
+PWY-5194 siroheme biosynthesis	siroheme biosynthesis	947880
+PWY-7315 dTDP-<i>N</i>-acetylthomosamine biosynthesis	dTDP-<i>N</i>-acetylthomosamine biosynthesis	948298	948296	945154	948299	945276	948300
+PWY-5162 "2-hydroxypenta-2	"2-hydroxypenta-2	944768	945012	946943	945008
+PWY0-501 lipoate biosynthesis and incorporation I	lipoate biosynthesis and incorporation I	945227	945217	947160	944805
+FAO-PWY fatty acid &beta;-oxidation I	fatty acid &beta;-oxidation I	948324	948325	946327	946213	949007	949097	948336
+DTDPRHAMSYN-PWY dTDP-L-rhamnose biosynthesis	dTDP-L-rhamnose biosynthesis	947482	947117	945276	945154	948299
+PWY0-1465 D-malate degradation	D-malate degradation	946319
+PWY0-1275 lipoate biosynthesis and incorporation II	lipoate biosynthesis and incorporation II	944865	945227	947160
+PWY0-1337 oleate &beta;-oxidation	oleate &beta;-oxidation	945812	946213	946327	948325	948324	949007	949097	948336	946727
+PWY0-522 lipoate salvage I	lipoate salvage I	944865
+PWY0-1471 uracil degradation III	uracil degradation III	946586	946591	946085	945699	945643
+PWY0-1591 glycerol-3-phosphate to hydrogen peroxide electron transport	glycerol-3-phosphate to hydrogen peroxide electron transport	946713	946733	946735	948038
+PWY-1269 CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	945539	947717	945785	947734	947587
+PWY-5973 <i>cis</i>-vaccenate biosynthesis	<i>cis</i>-vaccenate biosynthesis	945127	946799	946665	945645	944888	945870	944805
+PWY-5785 "di-<i>trans</i>	"di-<i>trans</i>	944874	947551	945450	945863
+PWY0-1590 NADH to hydrogen peroxide electron transfer	NADH to hydrogen peroxide electron transfer	946764	946761	946756	947580	945540	947731	945136	946757	946762	946753	946746	946759	946738	948038
+UDPNAGSYN-PWY UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	948246	948241	947692	948535
+PWY-4381 fatty acid biosynthesis initiation (bacteria and plants)	fatty acid biosynthesis initiation (bacteria and plants)	945766	946003	944895	946796	944805
+PWY-5783 octaprenyl diphosphate biosynthesis	octaprenyl diphosphate biosynthesis	947364
+PWY-6163 chorismate biosynthesis from 3-dehydroquinate	chorismate biosynthesis from 3-dehydroquinate	946814	945528	945031	2847759	947776	946210
+PWY-6123 inosine-5'-phosphate biosynthesis I	inosine-5'-phosphate biosynthesis I	946794	945695	948503	949031	945153
+PWY-5971 palmitate biosynthesis II (bacteria and plant cytoplasm)	palmitate biosynthesis II (bacteria and plant cytoplasm)	946665	946799	945645	944888	945870	944805
+GLUTATHIONESYN-PWY glutathione biosynthesis	glutathione biosynthesis	944881	947445
+PWY-5755 4-hydroxybenzoate biosynthesis II (bacteria)	4-hydroxybenzoate biosynthesis II (bacteria)	948545
+PWY-5686 UMP biosynthesis I	UMP biosynthesis I	944775	949025	948767	948763	945787	948157	947121	945556
+GLUT-REDOX-PWY glutathione-glutaredoxin redox reactions	glutathione-glutaredoxin redox reactions	948353	945479	946926	948132	947161
+HEME-BIOSYNTHESIS-II heme <i>b</i> biosynthesis I (aerobic)	heme <i>b</i> biosynthesis I (aerobic)	948497	948331	947532	946908
+PWY-6519 8-amino-7-oxononanoate biosynthesis I	8-amino-7-oxononanoate biosynthesis I	947916	945870	944888	945645	945388	946799	945384	944805
+PWY0-1546 muropeptide degradation	muropeptide degradation	945756	946686	945969	946013	945013
+THIOREDOX-PWY thioredoxin pathway	thioredoxin pathway	949054	948289	947062
+GLYCOCAT-PWY glycogen degradation I	glycogen degradation I	947923	947931	947941	949131	947922	945271	946858
+HEMESYN2-PWY heme <i>b</i> biosynthesis II (oxygen-independent)	heme <i>b</i> biosynthesis II (oxygen-independent)	947532	948497	948362	948331
+PWY0-1280 ethylene glycol degradation	ethylene glycol degradation	945672	947273
+NONMEVIPP-PWY methylerythritol phosphate pathway I	methylerythritol phosphate pathway I	945060	945019	944777	948269	945774	945057	949020	946991	947160	947361	945293
+GLYCOL-GLYOXDEG-PWY superpathway of glycol metabolism and degradation	superpathway of glycol metabolism and degradation	945394	945146	947632	945129	948512	948857	947353	2847718	2847717	945672	947273
+PWY0-1600 periplasmic disulfide bond reduction	periplasmic disulfide bond reduction	948649
+PWY-6268 adenosylcobalamin salvage from cobalamin	adenosylcobalamin salvage from cobalamin	945839
+PWY0-1599 periplasmic disulfide bond formation	periplasmic disulfide bond formation	946344	948353
+PWY-6894 thiamine diphosphate biosynthesis I (E. coli)	thiamine diphosphate biosynthesis I (E. coli)	947387	948491
+PWY-7884 lipoprotein posttranslational modification	lipoprotein posttranslational modification	947303	946201	944800	946281	944871
+PWY-6890 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	946459	948492
+PWY-6892 thiazole biosynthesis I (facultative anaerobic bacteria)	thiazole biosynthesis I (facultative anaerobic bacteria)	948493	945060	948500	948494	947004	946185	947160	2847702	945067
+PWY0-1554 5-(methoxycarbonylmethoxy)uridine biosynthesis	5-(methoxycarbonylmethoxy)uridine biosynthesis	946387	946380	945547
+PWY-6543 4-aminobenzoate biosynthesis	4-aminobenzoate biosynthesis	946337	947873	946647
+PWY-6910 hydroxymethylpyrimidine salvage	hydroxymethylpyrimidine salvage	946881	946459
+PWY0-1479 tRNA processing	tRNA processing	947672	945864	946760	947634	948215	946159	946328	948156	945641
+PWY-2161 folate polyglutamylation	folate polyglutamylation	947022	945451
+PWY-6614 tetrahydrofolate biosynthesis	tetrahydrofolate biosynthesis	947691	945451	944790	949096
+PWY-7892 tRNA-uridine 2-thiolation and selenation (bacteria)	tRNA-uridine 2-thiolation and selenation (bacteria)	946800	945690	947004	946185	947974	945023	947844	947853	947852	948222	948248	947063
+PWY-5837 "2-carboxy-1	"2-carboxy-1	946741	946734	946712	946720	946736	946747	946190
+1CMET2-PWY <i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis	<i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis	944790	949096	945167	948432	948522	944854	947394	947393	947390	945221	947022	949035
+PWY0-1587 N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis	N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis	948684	947578	946304	947783
+PWY-6708 ubiquinol-8 biosynthesis (prokaryotic)	ubiquinol-8 biosynthesis (prokaryotic)	945261	948926	947388	946607	947389	948326	948540
+XYLCAT-PWY D-xylose degradation I	D-xylose degradation I	948133	948141
+MENAQUINONESYN-PWY menaquinol-8 biosynthesis	menaquinol-8 biosynthesis	948926
+PWY-6700 queuosine biosynthesis	queuosine biosynthesis	947270	949130	944905	948686
+GALACTMETAB-PWY galactose degradation I (Leloir pathway)	galactose degradation I (Leloir pathway)	945358	945357	945354	945730	944943
+DETOX1-PWY superoxide radicals degradation	superoxide radicals degradation	948403	944953	945343	946234	948431	948210
+BGALACT-PWY lactose degradation III	lactose degradation III	945006
